@@ -12,6 +12,3 @@
   <img align="center" alt="gBrollo-Groovy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
 
   </div>
-  
-##
-
