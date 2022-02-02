@@ -14,7 +14,4 @@
   </div>
   
 ##
-  
-- 🔭 Atualmente trabalho como Full Stack
-- 😄 Pronouns: ele/dele
 
