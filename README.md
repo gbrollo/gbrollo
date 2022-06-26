@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovani</h1>
 <h3 align="center">A Full Stack developer from Curitiba</h3>
 
-- 🔭 I’m currently working on **Medprev**
+- 🔭 I’m currently working in **Medprev**
 
 - 🌱 I’m currently learning **Nodejs -> Nestjs**
 
