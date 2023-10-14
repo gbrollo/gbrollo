@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs -> Nestjs**
 
-- 💬 Ask me about **Vue, Nuxt and Relational Data Bases**
+- 💬 Ask me about **Vue, JavaScript, Nodejs and Relational Data Bases**
 
 - 📫 How to reach me **giovanibrollo@gmail.com**
 
